@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "nome": "Dr. João Silva",
+    "especialidade": "Cardiologia",
+    "disponibilidade": ["Segunda", "Quarta"]
+  },
+  {
+    "id": 2,
+    "nome": "Dra. Maria Souza",
+    "especialidade": "Dermatologia",
+    "disponibilidade": ["Terça", "Quinta"]
+  },
+  {
+    "id": 3,
+    "nome": "Dr. Pedro Lima",
+    "especialidade": "Cardiologia",
+    "disponibilidade": ["Sexta"]
+  }
+]

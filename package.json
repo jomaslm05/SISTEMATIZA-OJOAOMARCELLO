@@ -1,0 +1,15 @@
+{
+  "name": "api-profissionais-saude",
+  "version": "1.0.0",
+  "description": "API para consulta de profissionais de saúde",
+  "main": "src/app.js",
+  "scripts": {
+    "dev": "nodemon src/app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
